@@ -2,7 +2,7 @@
 # General Site Settings
 title: Lucas Gatsas
 logo: 'https://lucasgatsas.ch/blog/wp-content/uploads/2024/11/lucasgatsas-logo-blog.png'
-description: Hi, my name is Lucas Gatsas. I’m a web developer and photographer based in Switzerland. I like being at the center of TSE events, I'm also the founder of tse262728.com.
+description: Hi, my name is Lucas Gatsas. I’m a web developer and photographer based in Switzerland. I like being at the center of TSE events.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,7 +17,7 @@ author:
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/lucasgatsas"}
 - {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
+- {icon: "ion-logo-youtube", link: "https://youtube.com/lucasgatsasastro"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com/lucasgatsas"}
 - {icon: "ion ion-logo-github", link: "https://github.com/spaceg"}
 
@@ -34,7 +34,7 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 # Contact Settings
 contact:
   email: lucasgatsas[@]protonmail.com # Add your email for contant form
-  description: Lucas Gatsas is a solar astrophotographer, and filmmaker from Switzerland, specializing in capturing breathtaking images of the sun, moon, and planets. His deep interest in astronomy and solar photography, along with stargazing, is combined with a passion for filmmaking and photography. # Add a description of your form
+  description:  If you have any Questions, feel free to contact me. Otherwise follow my Social Media. # Add a description of your form
 
 # NOTE
 # Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.

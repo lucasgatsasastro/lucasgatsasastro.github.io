@@ -5,13 +5,12 @@ permalink: /about/
 image: '/images/60.jpg'
 ---
 
-Hi, my name is Adam Howard. I'm a writer and photographer. I like being at the center of events, being free and enjoying every moment. Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis. In qua quid est boni praeter summam voluptatem, et eam cur post. Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Natura sic ab iis investigata est, ut nulla pars caelo deinde optimum plurimas amico disputari.
+<strong>Lucas Gatsas</strong> is a Swiss solar astrophotographer and filmmaker with a passion for capturing the wonders of our universe. Specializing in stunning imagery of the sun, moon, and planets, his work blends technical precision with artistic filmmaking. Driven by a lifelong fascination with astronomy and solar observation, along with stargazing, is combined with a passion for filmmaking and photography.
 
 ![My best moments]({{site.baseurl}}/images/70.jpg)
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan.
 
+<!-- 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/71.jpg">
@@ -27,11 +26,11 @@ Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicl
 
 
 <p><iframe src="https://www.youtube.com/embed/R3VMW6fxK6Y" frameborder="0" allowfullscreen></iframe></p>
+-->
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente non potest.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+
+> The greatest people doubt themselves, while those with bad characters are brimming with sick ego self-confidence.
 >
-> <cite>George Bernard Shaw</cite>
+> <cite>Lucas Gatsas</cite>
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio? Quod dicit Epicurus etiam de voluptate, quae minime.
