@@ -36,5 +36,11 @@ image: '/images/60.jpg'
 
 > The greatest people doubt themselves, while those with bad characters are brimming with sick ego self-confidence.
 >
+
 > <cite>Lucas Gatsas</cite>
+
+
+
+
+
 
