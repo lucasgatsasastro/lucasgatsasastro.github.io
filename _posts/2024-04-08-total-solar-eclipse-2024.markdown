@@ -6,7 +6,9 @@ image:  '/images/20.jpg'
 tags:   [Travel, Rest]
 featured:
 ---
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, silaboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis. In qua quid est boni praeter summam voluptatem, et eam cur post. Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Natura sic ab iis investigata est, ut nulla pars caelo deinde optimum.
+"Here is the first segment of the solar eclipse that took place on April 8, 2024, in Dallas, Texas. For this event, I set up two cameras at different locations to capture the phenomenon from various perspectives. Additionally, I positioned one camera in New York, which was only able to capture a partial view of the eclipse."
+
+After much effort, I finally managed to process everything and complete all the tasks. Now that I am back in Switzerland, I can share my work with you. 
 
 <div class="gallery-box">
   <div class="gallery">
@@ -21,11 +23,16 @@ Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu 
 </div>
 
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Calatino quae plurimas amico disputari.
+The weather in Dallas was poor with too many clouds. I could only photograph the total maximum eclipse and Contact C3. The clouds blocked everything else. See Video
+My Collection of Gear for Experiencing the Total Solar Eclipse:
 
-1. Host is designed for ambitious, professional publishers who want to actively build a business around their content. That's who it works best for.
-2. The entire platform can be modified and customised to suit your needs. It's very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.
-3. For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.
+1. Camera : Canon EOS 6D Markii
+Lens : EF 75 – 300mm f/5.6
+Settings : 1/4000s – 1.4s – f/5.6 – ISO 100
+Mount : Rollei C5i + SkyWatcher – Solarquest
+Solar Filter : Baader ND 0.3
+Software: Adobe Photoshop2024 / Lightroom, Topaz, Sharpen, DeNoise, DaVinci Resolve
+
 
 ![Beautiful place]({{site.baseurl}}/images/41.jpg)
 *Mountains*
