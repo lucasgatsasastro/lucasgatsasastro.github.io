@@ -7,6 +7,10 @@ image: '/images/60.jpg'
 
 <strong>Lucas Gatsas</strong> is a Swiss solar astrophotographer and filmmaker with a passion for capturing the wonders of our universe. Specializing in stunning imagery of the sun, moon, and planets, his work blends technical precision with artistic filmmaking. Driven by a lifelong fascination with astronomy and solar observation, along with stargazing, is combined with a passion for filmmaking and photography.
 
+
+
+
+
 ![My best moments]({{site.baseurl}}/images/70.jpg)
 
 
