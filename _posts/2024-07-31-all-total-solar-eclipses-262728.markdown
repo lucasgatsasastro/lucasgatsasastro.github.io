@@ -57,6 +57,9 @@ Sign Up Now and be the first to get the best Informations & Locations - <strong>
 
 See a Collection of the most Beautiful Eclipse Photographs. 
 
+ <strong>36 Talented Photographers from Total Solar Eclipse April 8, 2024. The North America Tour.</strong>
+
+
 <p><iframe src="https://www.youtube.com/embed/7thb0CU52jI" frameborder="0" allowfullscreen></iframe></p>
 
 > In the shadow of bright shops, the solar eclipse.
