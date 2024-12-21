@@ -45,11 +45,16 @@ Sign Up Now and be the first to get the best Informations & Locations - <strong>
 ![Beautiful place]({{site.baseurl}}/images/tse-2028.png)
 *tse 2028*
 
-Disputari quid boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum.
+
+<h3>The Total Solar Eclipse 2028: Australian Solar Eclipse</h3> 
+
+ <strong>On January 26, 2028</strong>, the sky will once again host an extraordinary phenomenon – <strong>a total solar eclipse</strong>. This time, the path of totality will cross <strong>Australia, New Zealand, and the South Pacific</strong>. What makes this eclipse particularly captivating is its occurrence in a region renowned for its breathtaking natural landscapes. 
+ 
+ 
+ The complete obscuration of the Sun offers not only astronomy enthusiasts but also photographers a chance to capture the magical connection between the sky and Earth in stunning images. This is an event you won’t want to miss!
 
 <p><iframe src="https://www.youtube.com/embed/XG1TmhQZuNw" frameborder="0" allowfullscreen></iframe></p>
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. 
 
 <p><iframe src="https://www.youtube.com/embed/7thb0CU52jI" frameborder="0" allowfullscreen></iframe></p>
 
