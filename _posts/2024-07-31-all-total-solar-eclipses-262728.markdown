@@ -3,7 +3,7 @@ layout: post
 title:  All Total Solar Eclipses 262728
 date:   2024-07-31 15:01:35 +0300
 image:  '/images/40.jpg'
-tags:   [Travel, Rest]
+tags:   [Travel, TSE]
 featured: true
 ---
 <strong>The Fascination of Solar Eclipses: A Preview of 2026–2028 Highlights.</strong> In the coming years, we will witness spectacular celestial events: three stunning solar eclipses that are sure to captivate astronomy enthusiasts worldwide.

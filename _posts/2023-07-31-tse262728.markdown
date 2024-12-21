@@ -3,7 +3,7 @@ layout: post
 title:  Realtime Countdown Timer - tse262728.com
 date:   2023-07-31 15:01:35 +0300
 image:  '/images/lucas_gatsas_tse_april8_2024_13.jpg'
-tags:   [Dreams, Desert]
+tags:   [Solar, TSE]
 featured: true
 ---
 <strong>I’m excited</strong> to introduce my latest project: <strong><a href="https://tse262728.com" target="_blank">tse262728.com</a></strong> — a website featuring a real-time countdown spanning the next six years, leading up to <strong>2030</strong>. The site focuses on key milestones in  <strong>2026, 2027, and 2028</strong>, with a special emphasis on the upcoming total solar eclipses. 
