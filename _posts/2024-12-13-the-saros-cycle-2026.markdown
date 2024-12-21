@@ -1,21 +1,18 @@
 ---
 layout: post
-title:  The way I see it, every life is a pile of good things
-date:   2018-10-31 15:01:35 +0300
-image:  '/images/40.jpg'
-tags:   [Travel, Rest]
-featured: true
+title:  The Saros Cycle - August 12, 2026 – Greenland - Spain 
+date:   2024-12-13 15:01:35 +0300
+image:  '/images/lucas_gatsas_tse_april8_2024_01.jpg'
+tags:   [Travel, Desert]
+featured:
 ---
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, silaboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis. In qua quid est boni praeter summam voluptatem, et eam cur post. Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Natura sic ab iis investigata est, ut nulla pars caelo deinde optimum.
+The total eclipse 2026 will pass over the Arctic, Greenland, Iceland, Atlantic Ocean, northern Spain and very extreme northeastern Portugal. A partial eclipse will cover more than 90% of the Sun in Ireland, Great Britain, Portugal, France, Italy, the Balkans and North Africa and to a lesser extent in most of Europe, West Africa and northern North America.
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/51.jpg">
     <img src="/images/52.jpg">
     <img src="/images/63.jpg">
-    <img src="/images/54.jpg">
-    <img src="/images/68.jpg">
-    <img src="/images/56.jpg">
   </div>
   <em>Beautiful places / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
