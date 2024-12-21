@@ -6,7 +6,10 @@ image:  '/images/lucas_gatsas_tse_april8_2024_13.jpg'
 tags:   [Dreams, Desert]
 featured: true
 ---
-<strong>I’m excited</strong> to introduce my latest project: <strong><a href="https://tse262728.com" target="_blank">tse262728.com</a></strong> — a website featuring a real-time countdown spanning the next six years, leading up to <strong>2030</strong>. The site focuses on key milestones in  <strong>2026, 2027, and 2028</strong>, with a special emphasis on the upcoming total solar eclipses. Visitors can follow these extraordinary celestial events in real time, providing eclipse enthusiasts with a comprehensive timeline to plan their experiences. This project is designed as a one-of-a-kind resource for anyone passionate about solar eclipses and the wonders of the cosmos.
+<strong>I’m excited</strong> to introduce my latest project: <strong><a href="https://tse262728.com" target="_blank">tse262728.com</a></strong> — a website featuring a real-time countdown spanning the next six years, leading up to <strong>2030</strong>. The site focuses on key milestones in  <strong>2026, 2027, and 2028</strong>, with a special emphasis on the upcoming total solar eclipses. 
+
+
+Visitors can follow these extraordinary celestial events in real time, providing eclipse enthusiasts with a comprehensive timeline to plan their experiences. This project is designed as a one-of-a-kind resource for anyone passionate about solar eclipses and the wonders of the cosmos.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -16,7 +19,10 @@ featured: true
 </div>
 
 
-The website was developed by me and my agency, <strong><a href="https://spacedig.co" target="_blank">spacedig.co</a></strong>. This ambitious project will not only track the events live but also broadcast them in real time. To achieve this, we will assemble dedicated teams across multiple countries to capture these extraordinary moments through video and photography, ensuring a seamless live experience for our audience. Additionally, we plan to release a documentary film and a companion book for each year—2026, 2027, and 2028—providing a lasting chronicle of these remarkable celestial events.
+The website was developed by me and my agency, <strong><a href="https://spacedig.co" target="_blank">spacedig.co</a></strong>. This ambitious project will not only track the events live but also broadcast them in real time. To achieve this, we will assemble dedicated teams across multiple countries to capture these extraordinary moments through video and photography, ensuring a seamless live experience for our audience. 
+
+
+Additionally, we plan to release a documentary film and a companion book for each year—2026, 2027, and 2028—providing a lasting chronicle of these remarkable celestial events.
 
 
 ![Beautiful place]({{site.baseurl}}/images/lucas_gatsas_tse_april8_2024_16.jpg)
