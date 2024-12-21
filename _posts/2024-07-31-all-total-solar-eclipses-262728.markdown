@@ -53,11 +53,13 @@ Sign Up Now and be the first to get the best Informations & Locations - <strong>
  
  The complete obscuration of the Sun offers not only astronomy enthusiasts but also photographers a chance to capture the magical connection between the sky and Earth in stunning images. This is an event you won’t want to miss!
 
+ <strong>36 Talented Photographers from Total Solar Eclipse April 8, 2024. The North America Tour.</strong>
+ See a Collection of the most Beautiful Eclipse Photographs. 
+
 <p><iframe src="https://www.youtube.com/embed/XG1TmhQZuNw" frameborder="0" allowfullscreen></iframe></p>
 
-See a Collection of the most Beautiful Eclipse Photographs. 
 
- <strong>36 Talented Photographers from Total Solar Eclipse April 8, 2024. The North America Tour.</strong>
+<strong>See Next 10 Years of TSE - 2024 - 2026 - 2027 - 2028 - Total Solar Eclipse 2020 - 2030</strong>
 
 
 <p><iframe src="https://www.youtube.com/embed/7thb0CU52jI" frameborder="0" allowfullscreen></iframe></p>
