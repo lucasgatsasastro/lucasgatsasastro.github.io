@@ -34,8 +34,9 @@ Sign Up Now and be the first to get the best Informations & Locations - The Saro
 ![Beautiful place]({{site.baseurl}}/images/tse-2027.png)
 *tse 2027*
 
-Disputari quid boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. 
+<h3>The Total Solar Eclipse of 2027: The Eclipse of tne Century</h3>
 
+ <strong>On August 2, 2027 </strong>, an awe-inspiring celestial event awaits us: a total solar eclipse. The phase of totality will be visible in parts of Europe, North Africa, and the Middle East, with Spain being one of the prime locations for observation. During these brief minutes, the Moon will completely obscure the Sun, revealing the Sun’s outer atmosphere, the corona – a mesmerizing sight only possible during a total eclipse. For astrophotographers and sky enthusiasts, this event offers a unique opportunity to capture the Sun’s majestic appearance and experience the magic of the universe up close.
 
 ![Beautiful place]({{site.baseurl}}/images/tse-2028.png)
 *tse 2028*
