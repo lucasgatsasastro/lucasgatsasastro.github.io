@@ -64,6 +64,9 @@ Sign Up Now and be the first to get the best Informations & Locations - <strong>
 
 <p><iframe src="https://www.youtube.com/embed/7thb0CU52jI" frameborder="0" allowfullscreen></iframe></p>
 
+If you need more Informations, follow all my Social Media Channels.
+
+
 > In the shadow of bright shops, the solar eclipse.
 >
 > <cite>Lucas Gatsas</cite>
