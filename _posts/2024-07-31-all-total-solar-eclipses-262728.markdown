@@ -21,22 +21,26 @@ The Fascination of Solar Eclipses: A Preview of 2026–2028 Highlights. In the c
 ![Beautiful place]({{site.baseurl}}/images/tse-2026.png)
 *tse 2026*
 
-The Saros Cycle
+<strong>The Saros Cycle</strong>
 Aug, 12 - 2026
 The Total Eclipse will pass over the Arctic, Greenland, Iceland, Atlantic Ocean, northern Spain and very extreme northeastern Portugal. A partial eclipse will cover more than 90% of the Sun in Ireland, Great Britain, Portugal, France, Italy, the Balkans and North Africa and to a lesser extent in most of Europe, West Africa and northern North America.
 
-Once in Lifetime Experience
+<strong>Once in Lifetime Experience</strong>
 The total eclipse will be visible from the cities of A Coruña, Valencia, Zaragoza, Palma and Bilbao, but both Madrid and Barcelona will be just outside the path of totality.
 
 See all Informations
-Sign Up Now and be the first to get the best Informations & Locations - The Saros Cycle from Greenland to Spain in 2026.
+Sign Up Now and be the first to get the best Informations & Locations - <strong>The Saros Cycle from Greenland to Spain in 2026</strong>.
 
 ![Beautiful place]({{site.baseurl}}/images/tse-2027.png)
 *tse 2027*
 
 <h3>The Total Solar Eclipse of 2027: The Eclipse of tne Century</h3>
 
- <strong>On August 2, 2027 </strong>, an awe-inspiring celestial event awaits us: a total solar eclipse. The phase of totality will be visible in parts of Europe, North Africa, and the Middle East, with Spain being one of the prime locations for observation. During these brief minutes, the Moon will completely obscure the Sun, revealing the Sun’s outer atmosphere, the corona – a mesmerizing sight only possible during a total eclipse. For astrophotographers and sky enthusiasts, this event offers a unique opportunity to capture the Sun’s majestic appearance and experience the magic of the universe up close.
+ <strong>On August 2, 2027 </strong>, an awe-inspiring celestial event awaits us: a total solar eclipse. 
+ 
+ The phase of totality will be visible in parts of <strong>Europe, North Africa, and the Middle East,</strong> with Spain being one of the prime locations for observation. 
+ 
+ During these brief minutes, the Moon will completely obscure the Sun, revealing the Sun’s outer atmosphere, the corona – a mesmerizing sight only possible during a total eclipse. For astrophotographers and sky enthusiasts, this event offers a unique opportunity to capture the Sun’s majestic appearance and experience the magic of the universe up close.
 
 ![Beautiful place]({{site.baseurl}}/images/tse-2028.png)
 *tse 2028*
