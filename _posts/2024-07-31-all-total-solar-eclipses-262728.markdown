@@ -6,7 +6,7 @@ image:  '/images/40.jpg'
 tags:   [Travel, Rest]
 featured: true
 ---
-The Fascination of Solar Eclipses: A Preview of 2026–2028 Highlights. In the coming years, we will witness spectacular celestial events: three stunning solar eclipses that are sure to captivate astronomy enthusiasts worldwide.
+<strong>The Fascination of Solar Eclipses: A Preview of 2026–2028 Highlights.</strong> In the coming years, we will witness spectacular celestial events: three stunning solar eclipses that are sure to captivate astronomy enthusiasts worldwide.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -23,7 +23,7 @@ The Fascination of Solar Eclipses: A Preview of 2026–2028 Highlights. In the c
 
 <strong>The Saros Cycle</strong>
 Aug, 12 - 2026
-The Total Eclipse will pass over the Arctic, Greenland, Iceland, Atlantic Ocean, northern Spain and very extreme northeastern Portugal. A partial eclipse will cover more than 90% of the Sun in Ireland, Great Britain, Portugal, France, Italy, the Balkans and North Africa and to a lesser extent in most of Europe, West Africa and northern North America.
+<strong>The Total Eclipse</strong> will pass over the <strong>Arctic, Greenland, Iceland, Atlantic Ocean, northern Spain and very extreme northeastern Portugal</strong>. A partial eclipse will cover more than 90% of the Sun in Ireland, Great Britain, Portugal, France, Italy, the Balkans and North Africa and to a lesser extent in most of Europe, West Africa and northern North America.
 
 <strong>Once in Lifetime Experience</strong>
 The total eclipse will be visible from the cities of A Coruña, Valencia, Zaragoza, Palma and Bilbao, but both Madrid and Barcelona will be just outside the path of totality.
