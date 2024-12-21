@@ -55,6 +55,7 @@ Sign Up Now and be the first to get the best Informations & Locations - <strong>
 
 <p><iframe src="https://www.youtube.com/embed/XG1TmhQZuNw" frameborder="0" allowfullscreen></iframe></p>
 
+See a Collection of the most Beautiful Eclipse Photographs. 
 
 <p><iframe src="https://www.youtube.com/embed/7thb0CU52jI" frameborder="0" allowfullscreen></iframe></p>
 
