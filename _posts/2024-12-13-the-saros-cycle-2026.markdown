@@ -10,7 +10,7 @@ featured:
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/tse-2026.png">
+    <img src="/images/tse-2026.png" alt="Lucas Gatsas">
   </div>
   <em>Image : <a href="https://tse262728.com" target="_blank">tse262728.com</a></em>
 </div>
@@ -22,7 +22,7 @@ During a total solar eclipse, the <strong> "path of totality"</strong>  is a nar
 
 If you're planning to view the eclipse, it's always best to be within the path of totality for the full experience. Proper eclipse glasses or solar filters are essential for safe viewing!
 
-![Beautiful place]({{site.baseurl}}/images/41.jpg)
+![Lucas Gatsas]({{site.baseurl}}/images/41.jpg)
 *Mountains*
 
 <strong> That's fantastic!</strong>  Photographing a total solar eclipse can be a truly rewarding experience. Since you're interested in solar imaging and astrophotography, here are some tips for capturing this extraordinary event: 
@@ -79,7 +79,7 @@ Since the eclipse will pass over cities like A Coruña, Valencia, Zaragoza, Palm
 5. <strong>Bilbao:</strong> Nearby hills like Mount Artxanda for panoramic views.
 
 
-![Beautiful place]({{site.baseurl}}/images/total-solar-eclipse-sequence.jpg)
+![Lucas Gatsas]({{site.baseurl}}/images/total-solar-eclipse-sequence.jpg)
 *During the Solar Eclipse*
 
 <h3><strong>Gear Recommendations</strong></h3>

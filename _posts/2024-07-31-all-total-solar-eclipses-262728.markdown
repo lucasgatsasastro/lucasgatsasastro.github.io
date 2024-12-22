@@ -10,15 +10,15 @@ featured: true
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/tse-2026.png">
-    <img src="/images/tse-2027.png">
-    <img src="/images/tse-2028.png">
+    <img src="/images/tse-2026.png" alt="Lucas Gatsas">
+    <img src="/images/tse-2027.png" alt="Lucas Gatsas">
+    <img src="/images/tse-2028.png" alt="Lucas Gatsas">
   </div>
   <em>See Video :  <a href="https://www.youtube.com/watch?v=7thb0CU52jI" target="_blank">Total Solar Eclipse 2020 - 2030</a></em>
 </div>
  In 2026, a total solar eclipse will grace the skies over the Arctic and parts of Europe. In 2027, another breathtaking event will unfold, visible across North Africa, the Middle East, and Spain. Finally, in 2028, a remarkable total eclipse will illuminate Australia, New Zealand, and the South Pacific. Discover why these events are so extraordinary and how to best experience them!
 
-![Beautiful place]({{site.baseurl}}/images/tse-2026.png)
+![Lucas Gatsas]({{site.baseurl}}/images/tse-2026.png)
 *tse 2026*
 
 <strong>The Saros Cycle</strong>
@@ -31,7 +31,7 @@ The total eclipse will be visible from the cities of A Coruña, Valencia, Zarago
 See all Informations
 Sign Up Now and be the first to get the best Informations & Locations - <strong>The Saros Cycle from Greenland to Spain in 2026</strong>.
 
-![Beautiful place]({{site.baseurl}}/images/tse-2027.png)
+![Lucas Gatsas]({{site.baseurl}}/images/tse-2027.png)
 *tse 2027*
 
 <h3>The Total Solar Eclipse of 2027: The Eclipse of tne Century</h3>
@@ -42,7 +42,7 @@ Sign Up Now and be the first to get the best Informations & Locations - <strong>
  
  During these brief minutes, the Moon will completely obscure the Sun, revealing the Sun’s outer atmosphere, the corona – a mesmerizing sight only possible during a total eclipse. For astrophotographers and sky enthusiasts, this event offers a unique opportunity to capture the Sun’s majestic appearance and experience the magic of the universe up close.
 
-![Beautiful place]({{site.baseurl}}/images/tse-2028.png)
+![Lucas Gatsas]({{site.baseurl}}/images/tse-2028.png)
 *tse 2028*
 
 

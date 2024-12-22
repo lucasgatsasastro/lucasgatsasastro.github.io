@@ -10,7 +10,7 @@ featured: true
 Observing a solar eclipse requires precise planning and tracking, and having the right software is essential important. The right software can make all the difference. Here’s a selection of the top programs and apps to elevate your solar eclipse experience:
 
 
-  ![](/images/lucas_gatsas_tse_april8_2024_17.png)
+  ![Lucas Gatsas](/images/lucas_gatsas_tse_april8_2024_17.png)
   *Map of TSE 2024*
 
 
@@ -56,7 +56,7 @@ As the Moon shifts during a total solar eclipse, its full shadow sweeps across E
 In simple terms, to capture a total solar eclipse, you must position yourself within the path of totality—there’s no other way!
 
 
-![Beautiful place]({{site.baseurl}}/images/lucas_gatsas_tse_april8_2024_17.jpg)
+![Lucas Gatsas]({{site.baseurl}}/images/lucas_gatsas_tse_april8_2024_17.jpg)
 *Plan and SetUp*
 
 <h3>Phases of the Eclipses</h3>

@@ -13,7 +13,7 @@ Visitors can follow these extraordinary celestial events in real time, providing
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/tse262728.jpg">
+    <img src="/images/tse262728.jpg" alt="Lucas Gatsas">
   </div>
   <em>Realtime Countdown Timer :  <a href="https://tse262728.com/" target="_blank">tse262728.com</a></em>
 </div>
@@ -25,7 +25,7 @@ The website was developed by me and my agency, <strong><a href="https://spacedig
 Additionally, we plan to release a documentary film and a companion book for each year—2026, 2027, and 2028—providing a lasting chronicle of these remarkable celestial events.
 
 
-![Beautiful place]({{site.baseurl}}/images/lucas_gatsas_tse_april8_2024_16.jpg)
+![Lucas Gatsas]({{site.baseurl}}/images/lucas_gatsas_tse_april8_2024_16.jpg)
 *tse 2024 : Image by Lucas Gatsas*
 
 Our mission is to publish a stunning photo book <strong>each year—2026, 2027, and 2028—showcasing</strong> the most breathtaking images captured during these remarkable solar eclipses. In addition, we will release a documentary film for each eclipse, featuring the finest shots from talented photographers and astrophotographers around the globe.

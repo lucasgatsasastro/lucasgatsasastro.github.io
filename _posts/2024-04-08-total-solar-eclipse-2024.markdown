@@ -16,12 +16,12 @@ After much effort, I finally managed to process everything and complete all the 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/lucas_gatsas_tse_april8_2024_01.jpg">
-    <img src="/images/lucas_gatsas_tse_april8_2024_02.jpg">
-    <img src="/images/lucas_gatsas_tse_april8_2024_03.jpg">
-    <img src="/images/lucas_gatsas_tse_april8_2024_04.jpg">
-    <img src="/images/lucas_gatsas_tse_april8_2024_06.jpg">
-    <img src="/images/lucas_gatsas_tse_april8_2024_05.jpg">
+    <img src="/images/lucas_gatsas_tse_april8_2024_01.jpg" alt="Lucas Gatsas">
+    <img src="/images/lucas_gatsas_tse_april8_2024_02.jpg" alt="Lucas Gatsas">
+    <img src="/images/lucas_gatsas_tse_april8_2024_03.jpg" alt="Lucas Gatsas">
+    <img src="/images/lucas_gatsas_tse_april8_2024_04.jpg" alt="Lucas Gatsas">
+    <img src="/images/lucas_gatsas_tse_april8_2024_06.jpg" alt="Lucas Gatsas">
+    <img src="/images/lucas_gatsas_tse_april8_2024_05.jpg" alt="Lucas Gatsas">
   </div>
   <em>YouTube Video: <a href="https://www.youtube.com/shorts/XG1TmhQZuNw" target="_blank">TSE April 8, 2024</a></em>
 </div>
@@ -37,7 +37,7 @@ My Collection of Gear for Experiencing the Total Solar Eclipse:
 <strong>Most Stunning Phase:</strong>  During totality, the Sun’s corona—the outer atmosphere—became visible, a phenomenon that can only be observed during total solar eclipses.
 
 
-![Beautiful place]({{site.baseurl}}/images/lucas_gatsas_tse_april8_2024_09.jpg)
+![Lucas Gatsas]({{site.baseurl}}/images/lucas_gatsas_tse_april8_2024_09.jpg)
 *Sequence of  10 Images: Credit <a href="https://www.youtube.com/shorts/XG1TmhQZuNw" target="_blank">lucasgatsas.ch</a>*
 
 <h3>What Happened?</h3>
@@ -63,7 +63,7 @@ Here’s a photo of my gear, including my camera. I designed this setup specific
 
 
 
-![Beautiful place]({{site.baseurl}}/images/canon_eos_6d_tse_equipment.jpg)
+![Lucas Gatsas]({{site.baseurl}}/images/canon_eos_6d_tse_equipment.jpg)
 *Equipment for TSE 2024*
 
 "When choosing a location, I considered two options. Since New York was outside the path of totality, I settled on Dallas, Texas. Its warm, sunny weather and proximity to Mexico made it an ideal choice, especially compared to the colder, cloudier conditions in the north. For us astrophotographers, clear, cloudless skies are essential."
