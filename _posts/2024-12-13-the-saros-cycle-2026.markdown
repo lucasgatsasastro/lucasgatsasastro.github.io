@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Saros Cycle - August 12, 2026 – Greenland - Spain 
+title:  The Saros Cycle - August 12, 2026 | Greenland - Spain 
 date:   2024-12-13 15:01:35 +0300
 image:  '/images/lucas_gatsas_tse_april8_2024_01.jpg'
 tags:   [Travel, TSE26]
