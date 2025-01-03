@@ -7,7 +7,7 @@ layout: null
 <loc>{{ site.url }}</loc>
 </url>
 <url>
-<loc>{{ site.url }}/404.html</loc>
+<loc>{{ site.url }}/404/</loc>
 </url>
 <url>
 <loc>{{ site.url }}/about/</loc>
