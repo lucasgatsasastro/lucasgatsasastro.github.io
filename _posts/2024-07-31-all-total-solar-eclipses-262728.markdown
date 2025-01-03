@@ -2,7 +2,7 @@
 layout: post
 title:  All Total Solar Eclipses 262728
 date:   2024-07-31 15:01:35 +0300
-image:  '/images/40.jpg'
+image:  '/images/lucas_gatsas_tse_april8_2024_18.jpg'
 tags:   [Travel, TSE262728]
 featured: true
 ---

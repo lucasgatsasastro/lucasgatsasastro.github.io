@@ -6,11 +6,22 @@
   <meta name="robots" content="index,follow" />
   <meta name="robots" content="all" />
 
-  <meta name="image" content="https://lucasgatsas.com/images/lucas_gatsas_.jpg">
-  <meta itemprop="name" content="Lucas Gatsas - Astro + Solar Photographer">
-  <meta name="thumbnail" content="https://lucasgatsas.com/images/Lucas_Gatsas_01.jpg" />
+  {% if page.image %}
+    <meta name="image" content="{{ site.url }}{{ page.image }}">
+  {% else %}
+    <meta name="image" content="{{ site.url }}/images/lucas_gatsas_tse_april8_2024_10.jpg">
+  {% endif %}
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  {% if page.image %}
+  <meta name="thumbnail" content="{{ site.url }}{{ page.image }}">
+  {% else %}
+  <meta name="thumbnail" content="{{ site.url }}/images/lucas_gatsas_tse_april8_2024_10.jpg">
+  {% endif %}
+
+
+  <meta itemprop="name" content="Lucas Gatsas - Astro + Solar Photographer">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} by Lucas Gatsas</title>
+
 
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
   <meta name='keywords' content='Lucas Gatsas, Gatsas, Astro + Solar Photographer'>
@@ -21,6 +32,34 @@
   <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap" rel="stylesheet">
   <!-- Ionicons -->
   <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
+
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://lucasgatsas.com/" />
+<meta property="og:title" content="Lucas Gatsas" />
+<meta property="og:description" content="My name is Lucas Gatsas. I’m a Astro + Solar Photographer based in Switzerland. I like being at the center of TSE events." />
+{% if page.image %}
+<meta property="og:image" content="{{ site.url }}{{ page.image }}">
+{% else %}
+<meta property="og:image" content="{{ site.url }}/images/lucas_gatsas_tse_april8_2024_10.jpg">
+{% endif %}
+
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="https://lucasgatsas.com/" />
+<meta property="twitter:title" content="Lucas Gatsas" />
+<meta property="twitter:description" content="My name is Lucas Gatsas. I’m a Astro + Solar Photographer based in Switzerland. I like being at the center of TSE events." />
+{% if page.image %}
+<meta property="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% else %}
+<meta property="twitter:image" content="{{ site.url }}/images/lucas_gatsas_tse_april8_2024_10.jpg">
+{% endif %}
+
+
+
+<!-- Meta Tags Generated with https://metatags.io -->
 
   <style>
   {% capture include_to_scssify %}

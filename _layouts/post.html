@@ -1,6 +1,67 @@
 ---
 layout: default
 ---
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "{{ site.url }}{{ page.url }}",
+    "name": {{ page.title | jsonify }},
+    headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
+    "description": "{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.description }}{% endif %}",
+    "keywords": "Lucas Gatsas, Gatsas, Astro + Solar Photographer, tse262728.com, tse262728",
+    "datePublished": {{ page.date | jsonify }},
+    "dateModified": {{ page.last_modified_at | default: page.date | jsonify }},
+    "sameAs": [
+      "https://www.instagram.com/lucasgatsas/",
+      "https://youtube.com/@lucasgatsasastro",
+      "https://x.com/lucasgatsas",
+      "https://www.threads.net/@lucasgatsas",
+      "https://vsco.co/lucasgatsas/gallery"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": {{ site.author.name | jsonify }},
+      "givenName": {{ site.author.givenName | jsonify }},
+      "familyName": {{ site.author.familyName | jsonify }},
+      "url": "{{ site.url }}{{ page.image | default: site.img_url }}",
+      "url": "https://lucasgatsas.com"
+    },
+    "jobTitle": "Astro und Solar Photographer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Swiss Solar Observatory Society",
+      "url": "https://lucasgatsas.xyz"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": {{ site.title | jsonify }},
+      "url": "{{ site.url }}",
+      "logo": {
+        "@type": "ImageObject",
+        "width": 32,
+        "height": 32,
+        "url": "{{ site.url }}/icon/favicon.ico"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ site.url }}{{ page.url }}"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{ page.image | default: site.img_url }}",
+      "creator": {
+        "@type": "Person",
+        "name": "Lucas Gatsas",
+        "url": "{{ site.url }}"
+       }
+    }
+  }
+  </script>
+
+
+
 {% if page.image %}
 <div class="container">
   <div class="row">

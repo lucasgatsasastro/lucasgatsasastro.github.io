@@ -22,7 +22,7 @@ During a total solar eclipse, the <strong> "path of totality"</strong>  is a nar
 
 If you're planning to view the eclipse, it's always best to be within the path of totality for the full experience. Proper eclipse glasses or solar filters are essential for safe viewing!
 
-![Lucas Gatsas]({{site.baseurl}}/images/41.jpg)
+![Lucas Gatsas]({{site.baseurl}}/images/lucas-gatsas-sequence.jpg)
 *Mountains*
 
 <strong> That's fantastic!</strong>  Photographing a total solar eclipse can be a truly rewarding experience. Since you're interested in solar imaging and astrophotography, here are some tips for capturing this extraordinary event: 

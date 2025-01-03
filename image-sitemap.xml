@@ -1,0 +1,116 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created Fr. 3 Januar 2025 by Lucas Gatsas	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>{{ site.url }}</loc>
+	<lastmod>2025-01-02T22:13:04+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>{{ site.url }}/images/01.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_18.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_13.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_16.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_01.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_10.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>{{ site.url }}/about/</loc>
+	<lastmod>2025-01-02T22:13:04+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas-gatsas_01.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>{{ site.url }}/contact/</loc>
+	<lastmod>2025-01-02T22:13:04+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas-gatsas_01.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>{{ site.url }}/all-total-solar-eclipses-262728</loc>
+	<lastmod>2025-01-02T22:13:04+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>{{ site.url }}/images/tse-2026.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/tse-2027.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/tse-2028.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>{{ site.url }}/tse262728</loc>
+	<lastmod>2025-01-02T22:13:04+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>{{ site.url }}images/tse262728.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>{{ site.url }}/software-to-tracking-the-solar-eclipse</loc>
+	<lastmod>2025-01-02T22:13:04+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_17.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_17.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>{{ site.url }}/the-saros-cycle-2026</loc>
+	<lastmod>2025-01-02T22:13:04+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas-gatsas-sequence.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/total-solar-eclipse-sequence.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>{{ site.url }}/total-solar-eclipse-2024</loc>
+	<lastmod>2025-01-02T22:13:04+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_02.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_03.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_04.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_06.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_05.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_09.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>{{ site.url }}/images/canon_eos_6d_tse_equipment.jpg</image:loc>
+	</image:image>
+</url>
+</urlset>

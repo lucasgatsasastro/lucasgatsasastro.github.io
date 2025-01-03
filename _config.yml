@@ -2,7 +2,7 @@
 # General Site Settings
 title: Lucas Gatsas
 logo: 'https://lucasgatsas.ch/blog/wp-content/uploads/2024/11/lucasgatsas-logo-blog.png'
-description: Hi, my name is Lucas Gatsas. I’m a Astro + Solar Photographer based in Switzerland. I like being at the center of TSE events.
+description: My Name is Lucas Gatsas, I’m a Astro + Solar Photographer based in Switzerland. I like being at the center of TSE events.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -12,7 +12,10 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 author:
   avatar: '/images/01.jpg'
   name: Lucas Gatsas
+  givenName: Lucas
+  familyName: Gatsas
   job: Astro + Solar Photographer
+  socialName: lucasgatsas
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/lucasgatsas"}
@@ -23,6 +26,7 @@ social:
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # Other icons can be found at https://ionicons.com/v4/
+
 
 
 #-------------------------------
