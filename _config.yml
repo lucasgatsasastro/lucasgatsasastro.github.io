@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Lucas Gatsas
-logo: 'image/lucasgatsas-logo-blog.png'
+logo: '/images/logo.png'
 description: My Name is Lucas Gatsas, I’m a Astro + Solar Photographer based in Switzerland. I like being at the center of TSE events.
 baseurl: "https://lucasgatsas.com" # The subpath of your site, e.g. /blog
 url: "https://lucasgatsas.com" # The base hostname & protocol for your site, e.g. http://example.com
