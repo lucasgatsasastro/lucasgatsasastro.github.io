@@ -3,7 +3,7 @@
   <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
   {% if page.priority %}<priority>{{page.priority}}</priority>{%endif%}
   <image:image>
-    <image:loc>{{ site.url }}{{ page.image | default: site.img_url }}</image:loc>
+    <image:loc>{{ site.url }}{{ page.image | default: site.img_url }}</image:loc> <!-- Test Image-->
     <image:title><![CDATA[{{ post.title }}]]></image:title>
     <image:caption><![CDATA[{{ post.title }}]]></image:caption>
   </image:image>
