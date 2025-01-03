@@ -1,5 +1,5 @@
 <url>
-  <loc>{{ post.url }}</loc>
+  <loc>{{ site.url }}{{ post.url }}</loc>
   <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
   {% if page.priority %}<priority>{{page.priority}}</priority>{%endif%}
   <image:image>
