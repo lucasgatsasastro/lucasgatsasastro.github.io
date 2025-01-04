@@ -3,7 +3,7 @@
 title: Lucas Gatsas
 logo: '/images/logo.png'
 description: My Name is Lucas Gatsas, I’m a Astro + Solar Photographer based in Switzerland. I like being at the center of TSE events.
-baseurl: "https://lucasgatsas.com"  #baseurl: "https://lucasgatsas.com" 
+baseurl: "/"  #baseurl: "https://lucasgatsas.com"  <!-- test -->
 url: "https://lucasgatsas.com" #url: "https://lucasgatsas.com"
 
 # The subpath of your site, e.g. /blog
