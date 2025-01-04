@@ -4,7 +4,7 @@
   {% if page.priority %}<priority>{{page.priority}}</priority>{%endif%}
   <image:image>
     <image:loc>{{ site.url }}{{ post.image }}</image:loc> <!-- Test-->
-    <image:title><![CDATA[{{ post.title }}]]></image:title>
-    <image:caption><![CDATA[{{ post.title }}]]></image:caption>
+    <image:title>{{ post.title }}</image:title>
+    <image:caption>{{ post.title }}</image:caption>
   </image:image>
 </url>
