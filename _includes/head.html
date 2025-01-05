@@ -1,7 +1,10 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name='viewport" content="width=device-width, initial-scale=1'>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}">
+
 
   <meta name="robots" content="index,follow" />
   <meta name="robots" content="all" />
@@ -23,8 +26,8 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} by Lucas Gatsas</title>
 
 
-  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
-  <meta name='keywords' content='Lucas Gatsas, Gatsas, Astro + Solar Photographer'>
+  <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="Lucas Gatsas, Gatsas, Astro + Solar Photographer">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
