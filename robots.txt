@@ -3,6 +3,7 @@ layout: null
 ---
 User-agent: *
 Disallow: 
+
 Allow: /
 Allow: /images/
 Allow: /images/lucas_gatsas_tse_april8_2024_18.jpg
