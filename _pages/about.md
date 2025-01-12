@@ -5,11 +5,26 @@ permalink: /about/
 image: '/images/lucas-gatsas_01.jpg'
 ---
 
-<strong>Lucas Gatsas</strong> is a Swiss solar astrophotographer and filmmaker with a passion for capturing the wonders of our universe. Specializing in stunning imagery of the sun, moon, and planets, his work blends technical precision with artistic filmmaking. Driven by a lifelong fascination with astronomy and solar observation, along with stargazing, is combined with a passion for filmmaking and photography.
+<strong>Lucas Gatsas</strong> is a <strong>Swiss solar astrophotographer</strong> and filmmaker with a passion for capturing the wonders of our universe. Specializing in stunning imagery of <strong>the sun, moon, and planets,</strong> his work blends technical precision with artistic filmmaking. 
+
+Driven by a lifelong fascination with astronomy and solar observation, along with <strong>stargazing</strong>, is combined with a passion for filmmaking and photography.
 
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/lucas-gatsas-about-1.jpg" alt="Lucas Gatsas - About" title="halpha telescope">
+    <img src="/images/lucas-gatsas-about-2.jpg" alt="Lucas Gatsas - Abouts">
+    <img src="/images/lucas-gatsas-about-3.jpg" alt="Lucas Gatsas - About">
+  </div>
+  <em>YouTube Video: <a href="https://www.youtube.com/shorts/XG1TmhQZuNw" target="_blank">TSE April 8, 2024</a></em>
+</div>
 
 
+<a href="https://lucasgatsas.ch"> <button class="subscribe-button button button--primary"  id="membedded-subscribe" href="https://instagram.com/lucasgatsas" name="subscribe" style="
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+">@lucasgatsas</button></a>
 
 ![My best moments]({{site.baseurl}}/images/lucas-gatsas_01.jpg)
 

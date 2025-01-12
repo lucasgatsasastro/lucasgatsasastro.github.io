@@ -63,7 +63,7 @@ Here’s a photo of my gear, including my camera. I designed this setup specific
 
 
 
-![Lucas Gatsas]({{site.baseurl}}/images/canon_eos_6d_tse_equipment.jpg)
+![Lucas Gatsas]({{site.baseurl}}/images/lucas-gatsas-about-2.jpg)
 *Equipment for TSE 2024*
 
 "When choosing a location, I considered two options. Since New York was outside the path of totality, I settled on Dallas, Texas. Its warm, sunny weather and proximity to Mexico made it an ideal choice, especially compared to the colder, cloudier conditions in the north. For us astrophotographers, clear, cloudless skies are essential."
