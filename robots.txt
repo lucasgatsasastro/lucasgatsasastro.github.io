@@ -6,6 +6,7 @@ Disallow:
 
 Allow: /
 Allow: /images/
+Allow: /images/lucas-gatsas-total-solar-eclipse-moon.jpg
 Allow: /images/lucas_gatsas_tse_april8_2024_18.jpg
 Allow: /images/lucas-gatsas-feed-big-2.jpg
 
