@@ -4,18 +4,22 @@ layout: default
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "Lucas Gatsas",
-    "description": "Photographer",
-    "url": "https://lucasgatsas.com",
-    "image": "{{ site.url }}{{ page.image | default: site.img_url }}",
-    "keywords": "Lucas Gatsas, Gatsas, Astro + Solar Photographer, tse262728.com, tse262728",
+    "@type": "ProfilePage",
+    "dateCreated": "2024-12-23T12:34:00-05:00",
+    "dateModified": "2024-12-26T14:53:00-05:00",
+    "mainEntity": {
+      "@type": "Person",
+      "name": "Lucas Gatsas",
+      "description": "Photographer",
+      "url": "https://lucasgatsas.com",
+      "image": "{{ site.url }}{{ page.image | default: site.img_url }}",
+      "keywords": "Lucas Gatsas, Gatsas, Astro + Solar Photographer, tse262728.com, tse262728",
     "sameAs": [
-      "https://www.instagram.com/lucasgatsas/",
-      "https://youtube.com/@lucasgatsasastro",
-      "https://x.com/lucasgatsas",
-      "https://www.threads.net/@lucasgatsas",
-      "https://vsco.co/lucasgatsas/gallery"
+    "https://www.instagram.com/lucasgatsas/",
+    "https://youtube.com/@lucasgatsasastro",
+    "https://x.com/lucasgatsas",
+    "https://www.threads.net/@lucasgatsas",
+    "https://vsco.co/lucasgatsas/gallery"
     ],
     "jobTitle": "Astro und Solar Photographer",
     "worksFor": {
@@ -24,6 +28,7 @@ layout: default
       "url": "https://lucasgatsas.com"
     }
   }
+}
 </script>
 {% if page.image %}
 <div class="container">
