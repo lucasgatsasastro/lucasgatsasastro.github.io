@@ -13,8 +13,6 @@ layout: default
     "datePublished": {{ page.date | jsonify }},
     "dateModified": {{ page.last_modified_at | default: page.date | jsonify }},
     "contentUrl": "{{ site.url }}{{ page.image | default: site.img_url }}",
-    "license": "https://lucasgatsas.xyz/about",
-    "acquireLicensePage": "https://lucasgatsas.xyz/about",
     "sameAs": [
       "https://www.instagram.com/lucasgatsas",
       "https://youtube.com/@lucasgatsasastro",
@@ -54,11 +52,13 @@ layout: default
       "@type": "ImageObject",
       "url": "{{ site.url }}{{ page.image | default: site.img_url }}",
       "creditText": "Lucas Gatsas Media",
-      "creator": {
-        "@type": "Person",
-        "name": "Lucas Gatsas",
-        "url": "{{ site.url }}"
-      },
+      "license": "https://lucasgatsas.xyz/about",
+      "acquireLicensePage": "https://lucasgatsas.xyz/about",
+        "creator": {
+          "@type": "Person",
+          "name": "Lucas Gatsas",
+          "url": "{{ site.url }}"
+        },
       "copyrightNotice": "Lucas Gatsas"
     }
   }
