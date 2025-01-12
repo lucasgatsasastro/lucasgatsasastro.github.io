@@ -11,6 +11,9 @@ layout: null
 	<image:image>
 			<image:loc>{{ site.url }}/images/01.jpg</image:loc>
 	</image:image>
+		<image:image>
+			<image:loc>{{ site.url }}/images/lucas-gatsas-total-solar-eclipse-moon.jpg</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>{{ site.url }}/images/lucas_gatsas_tse_april8_2024_18.jpg</image:loc>
 	</image:image>
