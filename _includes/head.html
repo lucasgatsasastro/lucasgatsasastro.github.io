@@ -2,14 +2,15 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all" />
   <meta name="robots" content="follow, index, max-snippet:250, max-video-preview:60, max-image-preview:large"/>
 
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ page.url }}">
 
 
   <!-- <meta name="robots" content="index,follow" /> --> 
-  <meta name="robots" content="all" />
-
+ 
+ <!-- <meta name="robots" content="index,follow"
   {% if page.image %}
     <meta name="image" content="{{ site.url }}{{ page.image }}">
   {% else %}
@@ -21,7 +22,7 @@
   {% else %}
   <meta name="thumbnail" content="{{ site.url }}/images/lucas_gatsas_tse_april8_2024_10.jpg">
   {% endif %}
-
+ /> --> 
 
   <meta itemprop="name" content="Lucas Gatsas - Astro + Solar Photographer">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} by Lucas Gatsas</title>
@@ -32,6 +33,7 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+
 
   <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap" rel="stylesheet">
   <!-- Ionicons -->
