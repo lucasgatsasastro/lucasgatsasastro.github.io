@@ -96,3 +96,7 @@ img + em,
   text-align: left;
   color: $lg-grey;
 }
+
+// ---- Footer widgets (info / recent posts / newsletter): hidden on request ----
+.footer-widgets { display: none; }
+.footer { margin-top: 40px; }
