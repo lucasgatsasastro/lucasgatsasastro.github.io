@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% include hero.html %}
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -123,7 +122,7 @@ layout: default
     "@context": "https://schema.org/",
     "@type": "ImageObject",
     "contentUrl": "https://lucasgatsas.com/images/lucas-gatsas-total-solar-eclipse-moon.jpg",
-    "license": "https://lucasgatsas.xyz/abou",
+    "license": "https://lucasgatsas.xyz/about",
     "acquireLicensePage": "https://lucasgatsas.xyz/about",
     "creditText": "Lucas Gatsas",
     "creator": {
@@ -136,7 +135,7 @@ layout: default
     "@context": "https://schema.org/",
     "@type": "ImageObject",
     "contentUrl": "https://lucasgatsas.com/images/lucas_gatsas_tse_april8_2024_13.jpg",
-    "license": "https://lucasgatsas.xyz/abou",
+    "license": "https://lucasgatsas.xyz/about",
     "acquireLicensePage": "https://lucasgatsas.xyz/about",
     "creditText": "Lucas Gatsas",
     "creator": {
@@ -149,7 +148,7 @@ layout: default
     "@context": "https://schema.org/",
     "@type": "ImageObject",
     "contentUrl": "https://lucasgatsas.com/images/lucas_gatsas_tse_april8_2024_01.jpg",
-    "license": "https://lucasgatsas.xyz/abou",
+    "license": "https://lucasgatsas.xyz/about",
     "acquireLicensePage": "https://lucasgatsas.xyz/about",
     "creditText": "Lucas Gatsas",
     "creator": {
@@ -160,24 +159,15 @@ layout: default
   }]
   </script>
 
-
-<div class="container">
-  <div class="row">
-    <div class="col col-12">
-      <div class="container__inner">
-        <div class="contaniner__inner-box">
-          <div class="row grid">
-            {% if site.posts.size > 0 %}
-              {% for post in paginator.posts %}
-                {% include article-content.html %}
-              {% endfor %}
-            {% endif %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="post-list">
+  {% for post in paginator.posts %}
+  <article class="post-entry">
+    <p class="post-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %-d, %Y' }}</time></p>
+    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></h2>
+    <p class="excerpt">{{ post.excerpt | strip_html | strip_newlines | truncatewords: 45 }}</p>
+    <a class="more" href="{{ post.url | prepend: site.baseurl }}">Read more →</a>
+  </article>
+  {% endfor %}
 </div>
-
 
 {% include pagination.html %}

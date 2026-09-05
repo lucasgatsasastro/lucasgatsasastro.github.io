@@ -1,51 +1,20 @@
 <!-- begin header -->
-<header class="header">
-  <div class="container">
-    <div class="row">
-      <div class="header__inner col col-12">
-
-      <div class="logo">
-        <a class="logo__link" href="{{ site.baseurl }}/">
-        {%if site.logo %}
-          <img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
-        {% else %}
-          {{ site.title }}
-        {% endif %}
-        </a>
-      </div>
-        
-      <div class="menu-overlay">
-        <nav class="main-nav">
-          <div class="main-nav__box">
-            <div class="nav__icon-close">
-              <i class="ion ion-md-close"></i>
-            </div>
-            <div class="nav-grid">
-              <div class="nav-grid__item">
-                <h2 class="nav-grid__title">Menu</h2>
-                <div class="mobile-nav">
-                  {%include navigation.html%}
-                </div>
-              </div>
-            </div>
-          </div>
-        </nav>
-      </div>
-
-      <div class="navigation">
-        <div class="top-nav">
-          {%include navigation.html%}
-        </div>
-        <div class="nav-buttons">
-          <i class="nav__icon nav__icon-menu ion ion-md-menu"></i>
-          <i class="nav__icon nav__icon-search ion ion-md-search"></i>
-        </div>
-      </div>
-
-      </div>
-    </div>
+<header class="head">
+  <p class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}{% if site.author.job %}, {{ site.author.job }}{% endif %}</a></p>
+  <div class="icons">
+    {% for social in site.social %}
+      {% assign icon = social.icon %}
+      {% if icon contains 'twitter' %}{% assign fa = 'fa-brands fa-x-twitter' %}{% assign label = 'X' %}
+      {% elsif icon contains 'facebook' %}{% assign fa = 'fa-brands fa-facebook-f' %}{% assign label = 'Facebook' %}
+      {% elsif icon contains 'youtube' %}{% assign fa = 'fa-brands fa-youtube' %}{% assign label = 'YouTube' %}
+      {% elsif icon contains 'instagram' %}{% assign fa = 'fa-brands fa-instagram' %}{% assign label = 'Instagram' %}
+      {% elsif icon contains 'github' %}{% assign fa = 'fa-brands fa-github' %}{% assign label = 'GitHub' %}
+      {% elsif icon contains 'linkedin' %}{% assign fa = 'fa-brands fa-linkedin-in' %}{% assign label = 'LinkedIn' %}
+      {% elsif icon contains 'pinterest' %}{% assign fa = 'fa-brands fa-pinterest' %}{% assign label = 'Pinterest' %}
+      {% elsif icon contains 'mail' %}{% assign fa = 'fa-regular fa-envelope' %}{% assign label = 'E-Mail' %}
+      {% else %}{% assign fa = 'fa-solid fa-link' %}{% assign label = 'Link' %}{% endif %}
+      <a href="{{ social.link }}" target="_blank" rel="noopener" aria-label="{{ label }}"><i class="{{ fa }}"></i></a>
+    {% endfor %}
   </div>
 </header>
 <!-- end header -->
-
-{% include search.html %}
