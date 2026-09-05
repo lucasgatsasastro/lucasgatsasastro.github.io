@@ -4,7 +4,7 @@ title:  Software to Tracking the Solar Eclipse
 date:   2023-04-08 18:05:55 +0300
 image:  '/images/lucas_gatsas_tse_april8_2024_16.jpg'
 tags:   [Software, TSE]
-featured: true
+featured:
 ---
 <h3>Top Eclipse Tracking Software: Tools for Solar Observations</h3>
 Observing a solar eclipse requires precise planning and tracking, and having the right software is essential important. The right software can make all the difference. Here’s a selection of the top programs and apps to elevate your solar eclipse experience:

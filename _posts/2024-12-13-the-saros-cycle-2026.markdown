@@ -4,7 +4,7 @@ title:  The Saros Cycle - August 12, 2026, Greenland - Spain
 date:   2024-12-13 15:01:35 +0300
 image:  '/images/lucas_gatsas_tse_april8_2024_01.jpg'
 tags:   [Travel, TSE26]
-featured:
+featured: true
 ---
 <strong>The total eclipse 2026</strong> will pass over the Arctic, Greenland, Iceland, Atlantic Ocean, northern Spain and very extreme northeastern Portugal. A partial eclipse will cover more than 90% of the Sun in Ireland, Great Britain, Portugal, France, Italy, the Balkans and North Africa and to a lesser extent in most of Europe, West Africa and northern North America.
 
