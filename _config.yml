@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Lucas Gatsas
+title: Lucas Gatsas, Sonnenbeobachtung
 # logo: '/images/logo.png'   # deaktiviert: Logo wird als Text in EB Garamond gerendert
 description: My Name is Lucas Gatsas, I’m a Astro + Solar Photographer based in Switzerland. I like being at the center of TSE events.
 baseurl: "/"  #baseurl: "https://lucasgatsas.com"  <!-- Test Tester Finally -->
@@ -18,7 +18,7 @@ author:
   name: Lucas Gatsas
   givenName: Lucas 
   familyName: Gatsas
-  job: Astro + Solar Photographer
+  job: Astronomie und Sonnenfotografie bilden einen zentralen Schwerpunkt dieses Blogs. Ich bin Gründer und Direktor der Swiss Solar Observation Society (SSS-SSG).
   socialName: lucasgatsas
 
 social:
