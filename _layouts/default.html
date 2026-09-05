@@ -6,18 +6,16 @@
       {% include google-analytics.html %}
     {% endif %}
 
-    <div class="page">
-      {% include header.html %}
+    {% include header.html %}
 
-      <!-- begin content -->
-      <main aria-label="Content">
-        {{ content }}
-      </main>
-      <!-- end content -->
-
-      {% include footer.html %}
-    </div>
-
+    <!-- begin content -->
+    <main class="content" aria-label="Content">
+      {{ content }}
+    </main> 
+    <!-- end content -->
+    
+    <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
+    {% include footer.html %}
     {% include javascripts.html %}
   </body>
 </html>

@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 title: Lucas Gatsas
-logo: ''  # text logo (EB Garamond) — PNG logo no longer used
+logo: '/images/logo.png'
 description: My Name is Lucas Gatsas, I’m a Astro + Solar Photographer based in Switzerland. I like being at the center of TSE events.
-baseurl: ""  # root-hosted (CNAME); "/" produced //images/… URLs
+baseurl: "/"  #baseurl: "https://lucasgatsas.com"  <!-- Test Tester Finally -->
 url: "https://lucasgatsas.com" #url: "https://lucasgatsas.com"
 
 # The subpath of your site, e.g. /blog
@@ -35,7 +35,7 @@ social:
 
 #-------------------------------
 # Featured Slider
-slider: false # NOTE - By default, the slider is set to display featured posts. To add featured post to the slider, add the field, featured: true in the YAML front matter block. If you do not want to use the slider, leave the slider field empty.
+slider: true # NOTE - By default, the slider is set to display featured posts. To add featured post to the slider, add the field, featured: true in the YAML front matter block. If you do not want to use the slider, leave the slider field empty.
 
 
 #-------------------------------
@@ -60,7 +60,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: false # To enable the mailchimp form, use the value true. To turn off use the value false.
+mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
 mailchimp-text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
 mailchimp-identifier:  tse262728.us22.list-manage.com/subscribe/post?u=45108eb6e38b793af7d3de7a6&amp;id=397785b79c
 
