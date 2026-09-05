@@ -1,0 +1,94 @@
+// ============================================================
+// Typography override — match lucasgatsas.ch
+// Fonts, weights, casing and colours only. Layout untouched.
+// ============================================================
+
+$lg-sand:  #c5bc9b;
+$lg-grey:  #8a8a8a;
+$lg-serif: 'EB Garamond', Garamond, 'Times New Roman', serif;
+$lg-sans:  'Open Sans', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+
+// ---- Logo: text in Garamond (sand) instead of the PNG ----
+.logo__link {
+  font-family: $lg-serif;
+  font-weight: 400;
+  font-size: 28px;
+  text-transform: none;
+  letter-spacing: .005em;
+  color: $lg-sand;
+  &:hover { color: $lg-sand; }
+}
+.footer-logo {
+  font-family: $lg-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.2;
+  text-transform: none;
+  letter-spacing: .005em;
+  color: $lg-sand;
+  a, &:hover a { color: $lg-sand; }
+}
+
+// ---- Hero (name + tagline) ----
+.author .author__name { font-family: $lg-serif; font-weight: 400; }
+.author .author__job  { font-family: $lg-serif; font-weight: 400; line-height: 1.1; }
+
+// ---- Titles: Garamond regular everywhere ----
+.article__title,
+.post-title,
+.page-title,
+.archive-title,
+.widget__title,
+.recent-posts__title,
+.related-title,
+.nav-grid__title,
+.search-results__item .result-title,
+.no-results h3 {
+  font-family: $lg-serif;
+  font-weight: 400;
+}
+
+blockquote {
+  font-family: $lg-serif;
+  font-weight: 400;
+  font-style: italic;
+  &::before { font-family: $lg-serif; }
+  cite { font-family: $lg-sans; font-weight: 600; font-style: normal; }
+}
+
+// ---- Labels / meta: Open Sans, semibold instead of bold ----
+.top-nav .nav__list .nav__item .nav__link,
+.mobile-nav .nav__list .nav__item .nav__link,
+.article__author-link,
+.article-tags__box .article__tag,
+.article__date,
+.post__author span,
+.post__author-link,
+.post-tags .post-tags__tag,
+.post__date,
+.recent-posts__date,
+.archive-meta,
+.copyright,
+.footer-desc,
+.subscribe-subtitle,
+.button,
+.load-more-posts,
+.subscribe-group-top .subscribe-email {
+  font-family: $lg-sans;
+  font-weight: 600;
+}
+
+// ---- Image captions: italic Garamond, grey, no caps (like lucasgatsas.ch) ----
+img + em,
+.zoom-img-wrap + em,
+.gallery-box em {
+  font-family: $lg-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.4;
+  letter-spacing: 0;
+  text-transform: none;
+  text-align: left;
+  color: $lg-grey;
+}
