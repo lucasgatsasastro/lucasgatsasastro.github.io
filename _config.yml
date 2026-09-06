@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Lucas Gatsas, Sonnenbeobachtung
+title: Lucas Gatsas, Solar Observation
 # logo: '/images/logo.png'   # deaktiviert: Logo wird als Text in EB Garamond gerendert
 description: My Name is Lucas Gatsas, I’m a Astro + Solar Photographer based in Switzerland. I like being at the center of TSE events.
 baseurl: "/"  #baseurl: "https://lucasgatsas.com"  <!-- Test Tester Finally -->
